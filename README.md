@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**Agrahariabhishek22/Agrahariabhishek22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abhishek Agrahari**, a passionate **Full Stack Developer** with a knack for building scalable, responsive, and user-centric web applications. I love turning innovative ideas into reality through clean and efficient code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 I specialize in **MERN Stack Development**
+- 🔍 Always eager to explore and learn new technologies
+- 🤝 Open to collaborating on impactful **Full Stack projects**
+- ✨ Enthusiastic about writing **clean, maintainable code** that solves real-world problems
+
+---
+
+### 🧠 Tech Stack
+
+**Frontend:**
+- React.js, Next.js
+- JavaScript, HTML, CSS
+- Tailwind CSS
+
+**Backend:**
+- Node.js, Express.js
+
+**Database:**
+- MongoDB
+
+**Tools & Platforms:**
+- Git & GitHub
+- Postman
+
+---
+
+### 📬 Let's Connect!
+
+If you’re working on something exciting or have a cool idea to collaborate on, I’d love to hear from you!
+
+- 📧 **Email:** balajeet22@gmail.com  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/abhishek-agrahari-98127a254/)
+
+---
+
+### ⚡ Fun Fact
+
+I write code like I’m solving a mystery – every bug is just a clue 😄
+
+---
+
+Thanks for stopping by! Keep building 🚀
