@@ -40,6 +40,10 @@ If you’re working on something exciting or have a cool idea to collaborate on,
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/abhishek-agrahari-98127a254/)
 
 ---
+Looking forward to collaborating and learning together!
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Agrahariabhishek22&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Agrahariabhishek22&langs_count=5&theme=tokyonight)]()
 
 ### ⚡ Fun Fact
 
