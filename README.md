@@ -6,6 +6,7 @@ I'm **Abhishek Agrahari**, a passionate **Full Stack Developer** with a knack fo
 
 ### 🚀 About Me
 
+- 🚀 SDE intern at Tapitt**
 - 💻 I specialize in **MERN Stack Development**
 - 🔍 Always eager to explore and learn new technologies
 - 🤝 Open to collaborating on impactful **Full Stack projects**
@@ -36,7 +37,7 @@ I'm **Abhishek Agrahari**, a passionate **Full Stack Developer** with a knack fo
 
 If you’re working on something exciting or have a cool idea to collaborate on, I’d love to hear from you!
 
-- 📧 **Email:** balajeet22@gmail.com  
+- 📧 **Email:** abhishekagrahari222137gmail.com  
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/abhishek-agrahari-98127a254/)
 
 ---
