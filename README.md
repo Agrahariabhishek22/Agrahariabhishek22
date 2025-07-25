@@ -25,11 +25,12 @@ I'm **Abhishek Agrahari**, a passionate **Full Stack Developer** with a knack fo
 - Node.js, Express.js
 
 **Database:**
-- MongoDB
+- MongoDB,PostgreSql
 
 **Tools & Platforms:**
 - Git & GitHub
 - Postman
+- VS Code
 
 ---
 
@@ -37,7 +38,7 @@ I'm **Abhishek Agrahari**, a passionate **Full Stack Developer** with a knack fo
 
 If you’re working on something exciting or have a cool idea to collaborate on, I’d love to hear from you!
 
-- 📧 **Email:** abhishekagrahari222137gmail.com  
+- 📧 **Email:** abhishekagrahari222137@gmail.com  
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/abhishek-agrahari-98127a254/)
 
 ---
