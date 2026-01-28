@@ -6,7 +6,7 @@ I'm **Abhishek Agrahari**, a passionate **Full Stack Developer** with a knack fo
 
 ### 🚀 About Me
 
-- 🚀 SDE intern at Tapitt**
+- 🚀 SDE intern at Blogvault (On site Bangalore)
 - 💻 I specialize in **MERN Stack Development**
 - 🔍 Always eager to explore and learn new technologies
 - 🤝 Open to collaborating on impactful **Full Stack projects**
